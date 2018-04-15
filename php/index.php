@@ -1,9 +1,12 @@
 <?php
 
 
+<<<<<<< HEAD
 echo "Ola mundo456";
 
-echo "Olá Udemy";
+echo "Olá Udemy e hcode";
+=======
+
 
 
 ?>
